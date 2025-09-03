@@ -1,8 +1,13 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/L05HgB2h6qICDs5Sms/giphy.gif" width="200" alt="Hacker GIF"/>
-</p>
+<div align="center">
 
-<h1 align="center">Hi, I'm Ethicak Hacker</h1>
+
+
+  <!-- Typing Effect -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=Ethical+Hacker;Red+Teamer;Cyber+Security+Enthusiast;Bug+Bounty+Hunter" alt="Typing SVG" />
+
+</div>
+
+
 <h3 align="center">Cybersecurity Enthusiast | Ethical Hacker-in-Progress</h3>
 
 ---
@@ -98,8 +103,11 @@ python3 packet_sniffer.py --interface eth0 --filter "tcp port 80"
 
 ---
 
-> *"The only secure system is one that is powered off, cast in a block of concrete and sealed in a lead-lined room with armed guards."* <br/>
-> *— And even then I have my doubts.* 🚀
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=CYBER_VIGILANTE.CYBER_VIGILANTE" alt="Visitor Count"/>
