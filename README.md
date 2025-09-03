@@ -77,6 +77,7 @@ python3 packet_sniffer.py --interface eth0 --filter "tcp port 80"
 
 ---
 
+
 ### 📝 Latest Blog Posts
 - [Bypassing Modern WAFs Using Unicode Techniques](https://medium.com/@cyber_vigilante)
 - [Building a Home Lab for Advanced Penetration Testing]()
