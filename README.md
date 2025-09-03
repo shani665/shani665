@@ -1,18 +1,20 @@
 <div align="center">
 
   <!-- Small Banner Thumbnail -->
-  <img width="10660"
+  <img width="100%" 
        src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:003300&text=Shani%20Yadav&fontColor=00FF41&fontSize=52&desc=Ethical%20Hacker%20%7C%20Red%20Teamer%20%7C%20Bug%20Bounty%20Hunter%20%7C%20Cyber%20Security%20Enthusiast&descAlignY=75&descSize=17&height=210&animation=fadeIn&fontAlignY=40"
        alt="Hacker Thumbnail Banner" />
 
   <!-- Hacker Terminal Effect -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&multiline=true&width=650&height=120&lines=$+whoami;shani@hacker:~$+Access+Granted;shani@hacker:~$+Injecting+Payload...;shani@hacker:~$+Bypassing+Firewall...;shani@hacker:~$+Transferring+Funds+100000$...;shani@hacker:~$+Transfer+Successful+✔"
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&multiline=true&width=900&height=130&lines=$+whoami;shani@hacker:~$+Access+Granted;shani@hacker:~$+Injecting+Payload...;shani@hacker:~$+Bypassing+Firewall...;shani@hacker:~$+Transferring+Funds+100000USD...;shani@hacker:~$+Transfer+Successful+✔"
        alt="Hacker Terminal Animation" />
 
 </div>
 
 
-<h3 align="center">Cybersecurity Enthusiast | Ethical Hacker-in-Progress</h3>
+
+
+
 
 ---
 
