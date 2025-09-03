@@ -1,9 +1,13 @@
 <div align="center">
 
+  <!-- Small Banner Thumbnail -->
+  <img width="10660"
+       src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:003300&text=Shani%20Yadav&fontColor=00FF41&fontSize=52&desc=Ethical%20Hacker%20%7C%20Red%20Teamer%20%7C%20Bug%20Bounty%20Hunter%20%7C%20Cyber%20Security%20Enthusiast&descAlignY=75&descSize=17&height=210&animation=fadeIn&fontAlignY=40"
+       alt="Hacker Thumbnail Banner" />
 
-
-  <!-- Typing Effect -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=Ethical+Hacker;Red+Teamer;Cyber+Security+Enthusiast;Bug+Bounty+Hunter" alt="Typing SVG" />
+  <!-- Hacker Terminal Effect -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&multiline=true&width=650&height=120&lines=$+whoami;shani@hacker:~$+Access+Granted;shani@hacker:~$+Injecting+Payload...;shani@hacker:~$+Bypassing+Firewall...;shani@hacker:~$+Transferring+Funds+100000$...;shani@hacker:~$+Transfer+Successful+✔"
+       alt="Hacker Terminal Animation" />
 
 </div>
 
@@ -81,6 +85,9 @@ python3 packet_sniffer.py --interface eth0 --filter "tcp port 80"
 - Top 100 - TryHackMe Monthly Challenge (Multiple times)
 
 ---
+
+
+
 
 
 ### 📝 Latest Blog Posts
