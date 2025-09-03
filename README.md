@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/L05HgB2h6qICDs5Sms/giphy.gif" width="200" alt="Hacker GIF"/>
 </p>
 
-<h1 align="center">Hi, I'm CYBER_VIGILANTE</h1>
+<h1 align="center">Hi, I'm Ethicak Hacker</h1>
 <h3 align="center">Cybersecurity Enthusiast | Ethical Hacker-in-Progress</h3>
 
 ---
@@ -87,12 +87,10 @@ python3 packet_sniffer.py --interface eth0 --filter "tcp port 80"
 
 ### 🔗 Connect With Me
 <p align="center">
-  <a href="https://tryhackme.com/p/CYBER_VIGILANTE">
+  <a href="https://tryhackme.com/p/shaniyadav2145">
     <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />
   </a>
-  <a href="https://app.hackthebox.com/profile/cyber_vigilante">
-    <img src="https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" />
-  </a>
+ 
   <a href="https://www.linkedin.com/in/cyber-vigilante/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
