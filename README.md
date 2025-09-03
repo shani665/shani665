@@ -53,6 +53,9 @@ docker-compose up -d honeypot-elk
 # Real-time intrusion detection with Suricata
 suricata -c /etc/suricata/suricata.yaml -i eth0
 \`\`\`
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=alamimran613&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
 
 #### 🌐 Web App Pentesting Environment
 \`\`\`bash
